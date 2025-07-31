@@ -3,7 +3,7 @@
 Scientific advisory services focused on decisions under uncertainty in process systems engineering (PSE).
 
 ## About
-Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent, 2004), 33 PhDs supervised, 329+ publications (H-index 42). Awards: IChemE Hutchison Medal, Wiley Most Downloaded Paper.
+Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent, 2004), 33 PhDs supervised, 329+ publications (H-index 42).
 
 ## Services
 - PSE Modeling & Optimization: For fermentation, DSP, biomanufacturing.
