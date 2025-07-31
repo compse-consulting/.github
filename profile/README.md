@@ -18,7 +18,7 @@ Raised €15M+ funding. Coordinator of ModLife (€4.2M, 2015-2019) and PROSAFE 
 - [Company Profile](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/ComPSE_ConsultingDK.pdf)
 - [PSE Expertise](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/BusinessCV_PSEExpertise.pdf)
 - [AI Expertise](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/BusinessCV_EmergingTechExpertise.pdf)
-- [Professional CV](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/BriefCV_GSin_July2024.pdf)
+- [Professional CV](https://github.com/compse-consulting/tools/blob/main/BusinessCV_EmergingTechExpertise.pdf)
 
 ## Contact
 - Email: compseconsulting@gmail.com
