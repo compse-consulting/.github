@@ -1,6 +1,7 @@
 # ComPSE Consulting
 
-Scientific advisory services focused on decisions under uncertainty in process systems engineering (PSE).
+Scientific advisory services focused on process innovation with expert PSE—mastering modeling strategies, advanced 
+statistics, and AI technologies.
 
 ## About
 Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent, 2004), 33 PhDs supervised, 329+ publications (H-index 42).
