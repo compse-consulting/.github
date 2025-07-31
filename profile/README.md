@@ -8,10 +8,10 @@ Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent
 
 ## Services
 - **Production Technology & Process Engineering**: System optimization, process innovation and capacity analysis.
-- **Simulation Engineering & Modelling**: High-fidelity models for biomanufacturing and biotech industries.
+- **Simulation Engineering & Modelling**:  High-fidelity models for biomanufacturing and biotech industries, including techno-economic assessment of new process concepts
 - **AI & Machine Learning**: Predictive analytics, intelligent and safe operations.
-- **Industrial Bioengineering**: Process scale-up, Bioreactor optimization.
-- **Scientific Computing**: Custom algorithms, data processing.
+- **Industrial Bioengineering**: Process scale-up, planning and scheduling, biotechnological production.
+- **Scientific Computing**: Custom algorithms, data processing, statistical solutions (monte-carlo simulations,risk analysis,RSM,anova).
 
 ## Portfolio
 Raised €15M+ funding. Coordinator of ModLife (€4.2M, 2015-2019) and PROSAFE (€2.8M, 2024-2028). Case Study: Robust data framework for IHE Delft using ML and statistical validation.
