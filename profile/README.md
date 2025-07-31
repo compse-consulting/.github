@@ -4,7 +4,7 @@ Scientific advisory services focused on process innovation with expert PSE—mas
 statistics, and AI technologies.
 
 ## About
-Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent, 2004), 33 PhDs supervised, 329+ publications (H-index 42).
+Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent,BE 2004), +30 PhDs supervised, 350+ publications (H-index 42).
 
 ## Services
 - PSE Modeling & Optimization: For fermentation, DSP, biomanufacturing.
