@@ -15,10 +15,9 @@ Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent
 Raised €15M+ funding. Coordinator of ModLife (€4.2M, 2015-2019) and PROSAFE (€2.8M, 2024-2028). Case Study: Robust data framework for IHE Delft using ML and statistical validation.
 
 **Resources**:
-- [Company Profile](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/ComPSE_ConsultingDK.pdf)
+- [Company Profile](https://github.com/compse-consulting/tools/blob/main/ComPSE%20consultingDK.pdf)
 - [PSE Expertise](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/BusinessCV_PSEExpertise.pdf)
-- [AI Expertise](https://raw.githubusercontent.com/compse-consulting/compse-tools/main/assets/BusinessCV_EmergingTechExpertise.pdf)
-- [Professional CV](https://github.com/compse-consulting/tools/blob/main/BusinessCV_EmergingTechExpertise.pdf)
+- [AI Expertise](https://github.com/compse-consulting/tools/blob/main/BusinessCV_EmergingTechExpertise.pdf)
 
 ## Contact
 - Email: compseconsulting@gmail.com
