@@ -7,10 +7,11 @@ statistics, and AI technologies.
 Led by Prof. Gürkan Sin, DTU Chemical Engineering. 30+ years in PSE. PhD (Ghent,BE 2004), +30 PhDs supervised, 350+ publications (H-index 42).
 
 ## Services
-- PSE Modeling & Optimization: For fermentation, DSP, biomanufacturing.
-- Applied Statistics: ANOVA, RSM for R&D efficiency.
-- AI Integration: HAZOP, diagnostics, LLMs for safety.
-- R&D Collaboration: Academia-industry synergy (e.g., ModLife with J&J).
+- **Production Technology & Process Engineering**: System optimization, process innovation and capacity analysis.
+- **Simulation Engineering & Modelling**: High-fidelity models for biomanufacturing and biotech industries.
+- **AI & Machine Learning**: Predictive analytics, intelligent and safe operations.
+- **Industrial Bioengineering**: Process scale-up, Bioreactor optimization.
+- **Scientific Computing**: Custom algorithms, data processing.
 
 ## Portfolio
 Raised €15M+ funding. Coordinator of ModLife (€4.2M, 2015-2019) and PROSAFE (€2.8M, 2024-2028). Case Study: Robust data framework for IHE Delft using ML and statistical validation.
