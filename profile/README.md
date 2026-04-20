@@ -26,3 +26,6 @@ Raised €15M+ funding. Coordinator of ModLife (€4.2M, 2015-2019) and PROSAFE 
 - Phone: +45 23811148
 - LinkedIn: https://www.linkedin.com/in/gurkan-sin-a081006
 - Address: Rungstedvej 10, 2970 Hørsholm, Denmark | CVR: 45439437
+
+## Academic research group:  
+[GSI Lab @ DTU](https://github.com/gsi-lab)
