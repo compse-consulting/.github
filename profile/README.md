@@ -35,7 +35,6 @@ Work is limited to small assignments and focuses on advisory input rather than r
  2970 Hørsholm, Denmark  
 
 Email: compseconsulting@gmail.com  
-Phone: +45 2381 1148  
 
 CVR: 45439437  
 LinkedIn: [Gürkan Sin](https://www.linkedin.com/in/gurkan-sin-a081006)
