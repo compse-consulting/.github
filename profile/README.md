@@ -25,7 +25,7 @@ Work is limited to small assignments and focuses on advisory input rather than r
 
 ## Selected Experience
 
-- Statistical validation and data framework development for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
+- Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
 
 ---
 
