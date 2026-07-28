@@ -1,44 +1,26 @@
-# ComPSE Consulting
+**ComPSE Consulting**
 
-Low-volume scientific advisory and expert input on data and statistical methods.
+Trusted expert advisory in statistics, machine learning, and data quality.
 
----
+**What we do**
 
-## About
+ComPSE Consulting helps organisations get their data and analytical methods right. We provide independent, senior-level expert input in:
 
-ComPSE Consulting provides occasional, small-scale expert advisory on statistical analysis, data validation, and machine learning methods for external clients, primarily outside Denmark.
+Statistical analysis — rigorous design, review, and validation of statistical approaches
+Machine learning application frameworks — practical guidance on applying ML methods well, including data imputation strategies
+Data validation and quality — methods and evaluation strategies that make datasets trustworthy
+Database design and evaluation — structuring data so it supports sound analysis from day one
 
-The company operates on a limited basis alongside a full-time academic position.
+Our focus is expert advisory: we strengthen and validate the methods you already use, giving you confidence in your data-driven decisions.
 
----
+**How we work**
 
-## Scope of Work
+We work with a small number of clients at a time — primarily international organisations and institutions — so every engagement gets focused, senior attention. Engagements are typically short, targeted, and high-impact: a method review, a validation framework, a second opinion where it matters.
 
-- Generic statistical analysis and data validation
-- Machine learning application frameworks and data imputation methods
-- Database design and evaluation strategies
-- Expert input on existing analytical methods and frameworks
+**Selected experience**
+Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
+Get in touch
 
-Work is limited to small assignments and focuses on advisory input rather than research or methodology development.
+Have a project, dataset, method, or analysis you'd like an expert eye on? We're happy to have a short conversation about whether we're the right fit.
 
----
-
-## Selected Experience
-
-- Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
-
----
-
-## Contact
-
-**Gürkan Sin**  
- 2970 Hørsholm, Denmark  
-
-Email: compseconsulting@gmail.com  
-
-CVR: 45439437  
-LinkedIn: [Gürkan Sin](https://www.linkedin.com/in/gurkan-sin-a081006)
-
----
-
-*ComPSE Consulting is a small-scale personal consultancy operated alongside a full-time academic position at DTU.*
+Gürkan Sin 2970 Hørsholm, Denmark Email: compseconsulting@gmail.com CVR: 45439437 LinkedIn: Gürkan Sin
