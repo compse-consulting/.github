@@ -22,8 +22,8 @@ We work with a small number of clients at a time — primarily international org
 
 **Selected experience**
 
-Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
-Get in touch
+_Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
+Get in touch_
 
 Have an engineering or research project, dataset, method, modeling challenge or analysis you'd like an expert eye on? We're happy to have a short conversation about whether we're the right fit.
 
