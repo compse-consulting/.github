@@ -6,10 +6,13 @@ Trusted expert advisory in statistics, machine learning, and data quality.
 
 ComPSE Consulting helps organisations get their modeling, data and statistical methods right. We provide independent, senior-level expert input in:
 
-_Statistical analysis — rigorous design, review, and validation of statistical approaches
-Machine learning application frameworks — practical guidance on applying ML methods well, including data imputation strategies
-Data validation and quality — methods and evaluation strategies that make datasets trustworthy
-Database design and evaluation — structuring data so it supports sound analysis from day one_
+_Statistical analysis — rigorous design, review, and validation of statistical approaches_
+
+_Machine learning application frameworks — practical guidance on applying ML/AI methods well, including data imputation strategies_
+
+_Data validation and quality — methods and evaluation strategies that make datasets trustworthy_
+
+_Database design and evaluation — structuring data so it supports sound analysis from day one_
 
 Our focus is expert advisory: we strengthen and validate the methods you already use, giving you confidence in your data-driven decisions.
 
