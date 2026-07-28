@@ -1,6 +1,6 @@
 **ComPSE Consulting**
 
-Trusted expert advisory in statistics, machine learning, and data quality.
+Trusted expert advisory in statistical modeling, machine learning, and data quality.
 
 **What we do**
 
