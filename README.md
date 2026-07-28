@@ -1,30 +1,30 @@
-# ComPSE Consulting
+**ComPSE Consulting**
 
-Scientific advisory services focused on decisions under uncertainty in process systems engineering (PSE).
+Trusted expert advisory in statistical modeling, machine learning, and data quality.
 
-## About
-Led by Prof. Gürkan Sin (DTU Chemical Engineering). Expertise: PSE modeling (mechanistic, ML, stats), applied statistics (ANOVA, RSM, sensitivity), fermentation/biomanufacturing, sustainable processes (renewable energy, wastewater, Power-to-X), and emerging AI (LLMs for safety).
+**What we do**
 
-- 30+ years experience
-- €15M+ raised for process innovation
-- Coordinator: ModLife (Life Sciences Modeling), PROSAFE (AI Safety)
-- Global network in industry & academia
-- 329+ publications, H-index 42
+ComPSE Consulting helps organisations get their modeling, data and statistical methods right. We provide independent, senior-level expert input in:
 
-## Services
-- Modeling strategies for reliable processes (e.g., fermentation, DSP)
-- Statistical optimization and data-driven insights for R&D
-- AI training for safe operations (HAZOP, diagnostics)
-- R&D review & collaboration for scalable innovation
+_Statistical analysis — rigorous design, review, and validation of statistical approaches_
 
-## Contact
-- Email: compseconsulting@gmail.com
-- Phone: +45 23811148
-- LinkedIn: https://www.linkedin.com/in/gurkan-sin-a081006
-- Address: Rungstedvej 10, 2970 Hørsholm, Denmark | CVR: 45439437
+_Machine learning application frameworks — practical guidance on applying ML/AI methods well, including data imputation strategies_
 
-Download resources:
-- [Company Profile] 
-- [PSE Expertise]
-- [AI Expertise]
-- [Professional CV]
+_Data validation and quality — methods and evaluation strategies that make datasets trustworthy_
+
+_Database design and evaluation — structuring data so it supports sound analysis from day one_
+
+Our focus is expert advisory: we strengthen and validate the methods you already use, giving you confidence in your data-driven decisions.
+
+**How we work**
+
+We work with a small number of clients at a time — primarily international organisations and institutions — so every engagement gets focused, senior attention. Engagements are typically short, targeted, and high-impact: a method review, a validation framework, a second opinion where it matters.
+
+**Selected experience**
+
+_Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
+Get in touch_
+
+Have an engineering or research project, dataset, method, modeling challenge or analysis you'd like an expert eye on? We're happy to have a short conversation about whether we're the right fit.
+
+Gürkan Sin 2970 Hørsholm, Denmark Email: compseconsulting@gmail.com CVR: 45439437 LinkedIn: Gürkan Sin
