@@ -1,6 +1,6 @@
 **ComPSE Consulting**
 
-Trusted expert advisory in statistical modeling, machine learning, and data quality.
+Expert advisory modeling, machine learning, and statistical data analysis for process engineering domain.
 
 **What we do**
 
