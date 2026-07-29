@@ -1,6 +1,6 @@
 **ComPSE Consulting**
 
-Expert advisory modeling, machine learning, and statistical data analysis for process engineering domain.
+Expert advisory for modeling, machine learning, and statistical data analysis in process systems engineering domain.
 
 **What we do**
 
@@ -14,7 +14,7 @@ _Data validation and quality — methods and evaluation strategies that make dat
 
 _Database design and evaluation — structuring data so it supports sound analysis from day one_
 
-Our focus is expert advisory: we strengthen and validate the methods you already use, giving you confidence in your data-driven decisions.
+Our focus is expert advisory: we strengthen and validate the methods you already use, giving you confidence in your data and model-driven decisions.
 
 **How we work**
 
@@ -22,8 +22,9 @@ We work with a small number of clients at a time — primarily international org
 
 **Selected experience**
 
-_Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)
-Get in touch_
+_Statistical validation and machine learning framework for international environmental and sanitation datasets (IHE Delft / Gates Foundation project)_
+
+**Get in touch**
 
 Have an engineering or research project, dataset, method, modeling challenge or analysis you'd like an expert eye on? We're happy to have a short conversation about whether we're the right fit.
 
